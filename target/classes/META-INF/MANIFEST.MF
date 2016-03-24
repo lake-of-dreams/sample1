@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: twittstream
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rsinghal
+Specification-Title: twittstream
+Implementation-Vendor-Id: com.rsinghal.ceptest
+Build-Jdk: 1.8.0_65
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
